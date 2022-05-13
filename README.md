@@ -1,6 +1,6 @@
 <h1 align="center"> Hey👋, I'm Shaun! </h1>
 
-- 🌱 Undergraduate student at the University of British Columbia majoring in Business and Computer Science
+- 🌱 Undergraduate student at the University of British Columbia majoring in Computer Science and Business
 - 📫 Currently engrossed in developing my web design skills
 
 ## Connect With Me:
