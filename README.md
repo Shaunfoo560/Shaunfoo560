@@ -3,7 +3,7 @@
 - 🌱 Undergraduate student at the University of British Columbia majoring in Business and Computer Science
 - 📫 Currently engrossed in developing my web design skills
 
-## Connect With Me
+## Connect With Me:
 <p>
  <a href="mailto:shaunfoo560@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://linkedin.com/in/shaunfoo560"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
