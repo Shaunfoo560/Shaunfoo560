@@ -2,7 +2,7 @@
 
 - 🌱 Undergraduate student at the University of British Columbia majoring in Computer Science and Business
 - ✈️ Singapore -> Belgium -> Canada
-- 📫 Currently engrossed in developing my web design skills
+- 📫 Currently engrossed in developing my web design skills and learning about NLP
 
 ## Connect with me:
 <p>
