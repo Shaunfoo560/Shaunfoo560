@@ -1,8 +1,7 @@
 <h1 align="center"> Hey👋, I'm Shaun! </h1>
 
 - 🌱 Undergraduate student at the University of British Columbia majoring in Computer Science and Business
-- ✈️ Singapore -> Belgium -> Canada
-- 📫 Currently engrossed in developing my web design skills and learning about NLP
+- 📫 Currently working on several machine learning projects using Python neural network libraries (Keras and Pytorch)
 
 ## Connect with me:
 <p>
